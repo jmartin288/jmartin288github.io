@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Jennifer Martin </title>
+<!--This is the link to the stylesheet-->
+<link rel="stylesheet" type="text/css" href="IMA-5_Martin.css">
+</head>
+    
+<body style="background-color: blanchedalmond;">
+    
+<h1 style="color: darkgray;">Projects by Jennifer Martin</h1>
+    <ul>
+  <body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="IMA-1.html">IMA-1</a></li>
+  <li><a href="week1.html">IMA-2</a></li>
+   <li><a href="#contact">IMA-3</a></li>
+    <li><a href="#contact">IMA-4</a></li>
+     <li><a href="#contact">Contact</a></li>
+  <li style="float:right"><a class="active" href="#about">About</a></li>
+</ul>
+
+</body>
+</html>
+        <img src="bayview.JPG" width="300">
+   
+    
+</body>
+
+
+
+
+</html>
